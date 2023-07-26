@@ -1,0 +1,16 @@
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\bin\Debug\SortingSearchingStudentData.exe.config
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\bin\Debug\SortingSearchingStudentData.exe
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\bin\Debug\SortingSearchingStudentData.pdb
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.exe
+D:\Mphasis\.net\Self Learning\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.pdb
+D:\SortingSearchingStudentData\SortingSearchingStudentData\bin\Debug\SortingSearchingStudentData.exe.config
+D:\SortingSearchingStudentData\SortingSearchingStudentData\bin\Debug\SortingSearchingStudentData.exe
+D:\SortingSearchingStudentData\SortingSearchingStudentData\bin\Debug\SortingSearchingStudentData.pdb
+D:\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.csproj.AssemblyReference.cache
+D:\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.csproj.SuggestedBindingRedirects.cache
+D:\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.csproj.CoreCompileInputs.cache
+D:\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.exe
+D:\SortingSearchingStudentData\SortingSearchingStudentData\obj\Debug\SortingSearchingStudentData.pdb
